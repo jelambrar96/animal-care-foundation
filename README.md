@@ -1,6 +1,6 @@
 # animal-care-fundation
 
-[DEMO] (https://animal-care-fundation.netlify.app/#/)
+[DEMO](https://animal-care-fundation.netlify.app/#/)
 
 This single page application (SPA) is designed for an animal care foundation to showcase their mission, services, and available animals for adoption. The SPA provides a user-friendly interface for visitors to learn about the foundation, view available animals, and easily get in touch with the organization.
 Features
